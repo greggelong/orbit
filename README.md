@@ -16,4 +16,8 @@ Processing version:
 
 in folder
 
+## November 2022
 
+Revising this topic and writing code from scratch as a distraction from the mess on modern day Earth.
+
+Imagine the Earth is at the center. The Sun turns around it in 365 days. The Venus celestial circle travels faster. One Venus year being 225 days, and creating the yellow pentagram flower in 8 years. The Mars celestial circle creates its 8 loop pattern cycle in just under 16 years. A mars year is almost twice an Earth year at 687 days. Of course I guess the concept of a year on Mars or Venus would be meaningless in a geocentric model.
