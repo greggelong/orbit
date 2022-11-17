@@ -23,4 +23,7 @@ Revising this topic and writing code from scratch as a distraction from the mess
 Imagine the Earth is at the center. The Sun turns around it in 365 days. The Venus celestial circle travels faster. One Venus year being 225 days, and creating the yellow pentagram flower in 8 years. The Mars celestial circle creates its 8 loop pattern cycle in just under 16 years. A mars year is almost twice an Earth year at 687 days. Of course I guess the concept of a year on Mars or Venus would be meaningless in a geocentric model.
 
 ## venus orbit fourier
+
+https://greggelong.github.io/orbit/venusOrbitFourierEpi
+
 Sketched up another model of the Venus orbit pattern, in p5js. This model uses additive motion of two circles, called epicycles. It is like the Fourier series. In this model we imagine that the Earth is in the center the bigger circle is the sun's path around the Earth in a year. The smaller circle is the path of Venus around the sun. This model is Tycho Brahe 16th century model which combines geocentric and heliocentric models. It also does describe what we actually see from our vantage point stuck on Earth. #astronomy #p5js #creativecoding #math #processing #venus Code at https://github.com/greggelong/orbit
