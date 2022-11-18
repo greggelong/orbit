@@ -27,3 +27,12 @@ Imagine the Earth is at the center. The Sun turns around it in 365 days. The Ven
 https://greggelong.github.io/orbit/venusOrbitFourierEpi
 
 Sketched up another model of the Venus orbit pattern, in p5js. This model uses additive motion of two circles, called epicycles. It is like the Fourier series. In this model we imagine that the Earth is in the center the bigger circle is the sun's path around the Earth in a year. The smaller circle is the path of Venus around the sun. This model is Tycho Brahe 16th century model which combines geocentric and heliocentric models. It also does describe what we actually see from our vantage point stuck on Earth. #astronomy #p5js #creativecoding #math #processing #venus Code at https://github.com/greggelong/orbit
+
+## fourier Epicycle Orbit
+
+https://greggelong.github.io/orbit/fourierEpicycleOrbit
+
+This version has a hard coded epicycle see code to see how it differs from the other fourier version
+
+This version you can pick to visualize Venus or Mars
+
